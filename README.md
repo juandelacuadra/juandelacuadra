@@ -1,5 +1,6 @@
 ### Let's do this! 🤘
-
+- Currently studying Data Science at The Bridge | Digital Talent Accelerator.
+- Reach me at https://es.linkedin.com/in/juan-antonio-de-la-cuadra-s%C3%A1nchez-2435a52a
 <!--
 **juandelacuadra/juandelacuadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
