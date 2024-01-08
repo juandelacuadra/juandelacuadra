@@ -1,6 +1,6 @@
 # Hi there, I'm Juan! 👋
 
-I'm a Data Scientist and a Python/PHP developer specializing in data extraction, with a passion for innovative projects and staying up to date with the latest technologies.
+I'm a Data Engineer and a PHP backend developer specializing in data extraction and processing, with a passion for innovative projects and staying up to date with the latest technologies.
 
 I recently completed a bootcamp at [The Bridge | Digital Talent Accelerator](https://www.thebridge.tech/) to enhance my data science skills.
 
